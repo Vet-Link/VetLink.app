@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">VetLink</string>
+    <string name="title_home">Home</string>
+    <string name="title_appointment">Appointment</string>
+    <string name="title_Message">Message</string>
+    <string name="title_profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="landing_doctor">Sign Up as Doctor</string>
+    <string name="landing_pet_owner">Sign Up as Pet Owner</string>
+    <string name="title_sign_up">Create an account</string>
+    <string name="message_sign_up">Enter your detail to sign up for this app</string>
+    <string name="title_login">Login in to your account</string>
+    <string name="message_title">Welcome! Please enter your details</string>
+    <string name="email">Enter your email</string>
+    <string name="username">Username</string>
+    <string name="password">Create your password</string>
+    <string name="verify_your_password">Verify your password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="verify_your_email">Verify Your Email</string>
+    <string name="desc_verify_email">We have to sent the verification link to your email.</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="name">name</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="species">Species</string>
+    <string name="weight">Weight</string>
+    <string name="add_pet">Add Pet</string>
+    <string name="select_speciality">Select your specialty\n</string>
+    <string name="pet_name">Pet Name</string>
+    <string name="edit_pet">Edit Pet</string>
+    <string name="content_desc_calender">button_calender</string>
+    <string name="content_desc_pets">button_pets</string>
+    <string name="content_desc_dokter">button_doctor_menu_hp</string>
+    <string name="recomended_doctor">Recomend Doctors</string>
+    <string name="doctor_name">Dr. Emily Ledyayeva\n</string>
+    <string name="times_appointment">08:00 AM - 10:30 AM</string>
+    <string name="date_appointment">22 Mei, 2023</string>
+    <string name="hompage_menu_appointment_header_text">Appointmet</string>
+    <string name="profile_name">Saski Ropokova</string>
+    <string name="calender">Calender\n</string>
+    <string name="back_button_hp">calender_button_back\n</string>
+
+    <string-array name="specialities_array">
+        <item>Reptiles</item>
+        <item>Pets</item>
+        <item>Birds</item>
+        <item>Exotic</item>
+        <item>Cattle</item>
+        <item>Aquatic</item>
+    </string-array>
+</resources>
