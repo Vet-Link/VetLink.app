@@ -12,11 +12,11 @@ This repository contains the source code for the VetLink Mobile Application. We 
 - **Doctor:** see doctor (dummy)
 
 ## Implementation
-- **Navigation
-- **Fragment
-- **Retrofit
-- **Intent
-- **Style & Theme
+- **Navigation**
+- **Fragment**
+- **Retrofit**
+- **Intent**
+- **Style & Theme**
 
 ## Getting Started
 These instructions will help you set up and run the project on your local machine
