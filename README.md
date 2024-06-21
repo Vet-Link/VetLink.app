@@ -1,4 +1,6 @@
-# VetLink Mobile Application
+# VetLink 
+Telemedicine for pet.
+"Your Pets Health, Our Priority"
 
 ## Overview
 This repository contains the source code for the VetLink Mobile Application. We built the UI and application using Android Studio, utilizing Android Components such as Live Data, View Model, MVVM, Data Store, and libraries like Retrofit, Glide, and Gson.
